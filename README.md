@@ -11,3 +11,6 @@ It's good to know that there's a place that I could learn python technique on th
 * scikit-learn의 OLS estimator 사용하여
 
  
+### Preprocessing for scikit-learn
+* scikit-learn의 LinearRegression estimator에 적용하기 위해  
+* categorical 변수, polynomial regression, interaction preprocessing 
