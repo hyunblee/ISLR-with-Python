@@ -6,11 +6,19 @@ It's good to know that there's a place that I could learn python technique on th
 -  강의 슬라이드나 관련 자료가 함께 있음 
 
   
-### 3장 -Linear Regression
+### 3장 - Linear Regression
 * statsmodel 패키지 사용하여  
 * scikit-learn의 OLS estimator 사용하여
 
- 
+
+### 4장 - Classification 
+* Logistic Regression : scikit-learn estimator와 statsmodels 라이브러리 사용하여, 
+* KNN Regression과 Classification : scikit-learn estimator 사용하여,
+* Regression 평가 (Evaluation Metric) : MAE, MSE, RMSE 
+* Regression 평가 : Confusion Matrix, ROC, AUC
+* Train/Test Split 방법, Cross-Validated AUC 짧은 소개 
+
+
 ### Preprocessing for scikit-learn
 * scikit-learn의 LinearRegression estimator에 적용하기 위해  
 * categorical 변수, polynomial regression, interaction preprocessing 
