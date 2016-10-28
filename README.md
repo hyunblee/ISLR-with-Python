@@ -14,8 +14,8 @@ It's good to know that there's a place that I could learn python technique on th
 ### 4장 - Classification 
 * Logistic Regression : scikit-learn estimator와 statsmodels 라이브러리 사용하여, 
 * KNN Regression과 Classification : scikit-learn estimator 사용하여,
-* Regression 평가 (Evaluation Metric) : MAE, MSE, RMSE 
-* Regression 평가 : Confusion Matrix, ROC, AUC
+* Regressor 평가 (Evaluation Metric) : MAE, MSE, RMSE 
+* Classifier 평가 : Confusion Matrix, ROC, AUC
 * Train/Test Split 방법, Cross-Validated AUC 짧은 소개 
 
 
