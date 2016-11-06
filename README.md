@@ -18,7 +18,13 @@ It's good to know that there's a place that I could learn python technique on th
 * Classifier 평가 : Confusion Matrix, ROC, AUC
 * Train/Test Split 방법, Cross-Validated AUC 짧은 소개 
 
-
+### 5장 - Resampling Methods : Model Evaluation
+* Validation Set Approach (Train/Test Split)
+* K-Fold Cross Validation
+  - Regression Model의 Test MSE 추정
+  - Hyper Parameter 튜닝 : KNN Regression 에서 K 선정 
+  - Classification Model에서 Cross-Validated AUC 계산
+  
 ### Preprocessing for scikit-learn
 * scikit-learn의 LinearRegression estimator에 적용하기 위해  
 * categorical 변수, polynomial regression, interaction preprocessing 
