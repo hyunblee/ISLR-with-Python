@@ -1,5 +1,4 @@
-***Found out [Jordi Warmenhoven](https://github.com/JWarmenhoven/ISLR-python.git) has supplied us with a great python version of ISLR. 
-It's good to know that there's a place that I could learn python technique on this wonderful subject***  
+***Found out [Jordi Warmenhoven](https://github.com/JWarmenhoven/ISLR-python.git) had earlier supplied us with a great python version of ISLR***  
 
 # ISLR-with-Python
 ### Introduction to Statistical Learning in R (ISLR)을 Python으로  
@@ -24,6 +23,14 @@ It's good to know that there's a place that I could learn python technique on th
   - Regression Model의 Test MSE 추정
   - Hyper Parameter 튜닝 : KNN Regression 에서 K 선정 
   - Classification Model에서 Cross-Validated AUC 계산
+  
+### 8장 - Tree based Methods 
+* Decision Tree (의사결정 트리)
+* Random Forest
+* Gradient Boosting
+
+Regression과 Classification 사용을 익히고, Cross-Validation 또는 Train/Test split을 통해 Test Performance 추정과 패러미터 튜닝 
+  
   
 ### Preprocessing for scikit-learn
 * scikit-learn의 LinearRegression estimator에 적용하기 위해  
