@@ -29,6 +29,12 @@
 * Random Forest
 * Gradient Boosting
 
+### 9장 - Support Vector Machines  
+* Support Vector Machine 
+* Grid Search CV를 통한 Test Performance 추정 및 패러미터 튜닝 
+* Randomized Search CV를 통한 Test Performance 추정 및 패러미터 튜닝
+* Gradient Boosting, SVM, Grid Search CV 및 Randomized Search CV 이용한 실제적 실습 
+
 Regression과 Classification 사용을 익히고, Cross-Validation 또는 Train/Test split을 통해 Test Performance 추정과 패러미터 튜닝 
   
   
