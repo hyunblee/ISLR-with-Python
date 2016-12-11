@@ -37,6 +37,23 @@
 
 Regression과 Classification 사용을 익히고, Cross-Validation 또는 Train/Test split을 통해 Test Performance 추정과 패러미터 튜닝 
   
+### 10장 - Unsupervised Learning   
+* Principal Component Analysis (PCA)
+  - 간단히 직접 PCA를 만들어 PCA 이해 
+  - scikit-learn PCA 사용하기 
+* Clustering
+  - K-Means
+  - scikit-learn의 Hierarchical Clustering
+  - SciPy의 Hierarchical Clustering
+* 실습 - NCI60 데이터 활용
+  - NCI60에 PCA 적용하기
+  - NCI60에 Clustering 적용 
+    - 전체 데이터
+	- Principal Component에 대해 
+  - NCI60에 Classification 실행 - Gene Expression으로 종양 타입 예측
+	- Principal Component 활용
+	- Gradient Boosting Machine 활용
+	- Grid Search CV를 활용해 최적 패러미터 탐색 
   
 ### Preprocessing for scikit-learn
 * scikit-learn의 LinearRegression estimator에 적용하기 위해  
