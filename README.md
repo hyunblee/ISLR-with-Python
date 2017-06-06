@@ -5,6 +5,17 @@
 -  강의 슬라이드나 관련 자료가 함께 있음 
 
   
+### 1장 - Introduction
+* 인공지능, 머신러닝, 데이터사이언스, 예측분석을 간단히...
+* [비디오](https://www.youtube.com/watch?v=MShERLhFg70)
+
+
+### 2장 - Statistical Learning
+* Supervised Learning 소개   
+* [비디오 1](https://www.youtube.com/watch?v=cyCJMVNhfnI)
+* [비디오 2](https://www.youtube.com/watch?v=3jzZ7VwcP_E)
+
+
 ### 3장 - Linear Regression
 * statsmodel 패키지 사용하여  
 * scikit-learn의 OLS estimator 사용하여
